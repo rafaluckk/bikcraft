@@ -18,6 +18,10 @@
   margin-bottom: 32px;
 }
 
+.footer li {
+  margin-bottom: 16px;
+}
+
 .footer-contato li:nth-child(even):after {
   content: "";
   display: block;
